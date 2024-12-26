@@ -2,7 +2,7 @@
 	"SecretMultiplierFFlag": 1,
 	"UltimaMultiplierFFlag": 1,
 	"CurrentUltimaFFlag": false,
-	"ClicksMultiplierFFlag": 2,
+	"ClicksMultiplierFFlag": 5,
 	"LuckMultiplierFFlag": 1,
 	"EggsIncreaseFFlag": 0
 }
